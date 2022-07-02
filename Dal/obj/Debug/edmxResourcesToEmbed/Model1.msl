@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="shortSortDBModelStoreContainer" CdmEntityContainer="shortSortDBEntities">
+    <EntitySetMapping Name="ArticalPerCategoryTables">
+      <EntityTypeMapping TypeName="shortSortDBModel.ArticalPerCategoryTable">
+        <MappingFragment StoreEntitySet="ArticalPerCategoryTable">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="CatId" ColumnName="CatId" />
+          <ScalarProperty Name="ArtId" ColumnName="ArtId" />
+          <ScalarProperty Name="Points" ColumnName="Points" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ArticalTables">
+      <EntityTypeMapping TypeName="shortSortDBModel.ArticalTable">
+        <MappingFragment StoreEntitySet="ArticalTable">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Link" ColumnName="Link" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CategoryTables">
+      <EntityTypeMapping TypeName="shortSortDBModel.CategoryTable">
+        <MappingFragment StoreEntitySet="CategoryTable">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Kod" ColumnName="Kod" />
+          <ScalarProperty Name="Desciption" ColumnName="Desciption" />
+          <ScalarProperty Name="ParentID" ColumnName="ParentID" />
+          <ScalarProperty Name="AmountArticals" ColumnName="AmountArticals" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PermissionTables">
+      <EntityTypeMapping TypeName="shortSortDBModel.PermissionTable">
+        <MappingFragment StoreEntitySet="PermissionTable">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Phon" ColumnName="Phon" />
+          <ScalarProperty Name="Level" ColumnName="Level" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SimilarWordTables">
+      <EntityTypeMapping TypeName="shortSortDBModel.SimilarWordTable">
+        <MappingFragment StoreEntitySet="SimilarWordTable">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Word" ColumnName="Word" />
+          <ScalarProperty Name="similarWord" ColumnName="similarWord" />
+          <ScalarProperty Name="Percent" ColumnName="Percent" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="WordPerCategoryTables">
+      <EntityTypeMapping TypeName="shortSortDBModel.WordPerCategoryTable">
+        <MappingFragment StoreEntitySet="WordPerCategoryTable">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Word" ColumnName="Word" />
+          <ScalarProperty Name="CatId" ColumnName="CatId" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

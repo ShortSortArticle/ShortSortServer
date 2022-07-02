@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7ae8737e646c4b2ab00f28a76bb4899a" Name="Diagram1">
+        <EntityTypeShape EntityType="shortSortDBModel.ArticalPerCategoryTable" Width="2" PointX="4.25" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="shortSortDBModel.ArticalTable" Width="1.5" PointX="6.625" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="shortSortDBModel.CategoryTable" Width="1.5" PointX="2.375" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="shortSortDBModel.PermissionTable" Width="1.5" PointX="8.75" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="shortSortDBModel.SimilarWordTable" Width="1.75" PointX="8.5" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="shortSortDBModel.WordPerCategoryTable" Width="1.5" PointX="0.5" PointY="0.5" IsExpanded="true" />
+        <AssociationConnector Association="shortSortDBModel.apc_art_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="shortSortDBModel.apc_cat_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="shortSortDBModel.cat_pid_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="shortSortDBModel.wpc_cat_fk" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

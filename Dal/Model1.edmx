@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="shortSortDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="ArticalPerCategoryTable">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="CatId" Type="int" Nullable="false" />
+          <Property Name="ArtId" Type="int" Nullable="false" />
+          <Property Name="Points" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ArticalTable">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Title" Type="nvarchar" MaxLength="200" />
+          <Property Name="Link" Type="nvarchar" MaxLength="500" Nullable="false" />
+        </EntityType>
+        <EntityType Name="CategoryTable">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Kod" Type="nvarchar" MaxLength="15" Nullable="false" />
+          <Property Name="Desciption" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="ParentID" Type="int" />
+          <Property Name="AmountArticals" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="PermissionTable">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="nvarchar" MaxLength="9" Nullable="false" />
+          <Property Name="Phon" Type="nvarchar" MaxLength="9" Nullable="false" />
+          <Property Name="Level" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="SimilarWordTable">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Word" Type="nvarchar" MaxLength="20" Nullable="false" />
+          <Property Name="similarWord" Type="nvarchar" MaxLength="20" Nullable="false" />
+          <Property Name="Percent" Type="float" Nullable="false" />
+        </EntityType>
+        <EntityType Name="WordPerCategoryTable">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Word" Type="nvarchar" MaxLength="20" Nullable="false" />
+          <Property Name="CatId" Type="int" Nullable="false" />
+          <Property Name="Amount" Type="int" Nullable="false" />
+        </EntityType>
+        <Association Name="apc_art_fk">
+          <End Role="ArticalTable" Type="Self.ArticalTable" Multiplicity="1" />
+          <End Role="ArticalPerCategoryTable" Type="Self.ArticalPerCategoryTable" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ArticalTable">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="ArticalPerCategoryTable">
+              <PropertyRef Name="ArtId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="apc_cat_fk">
+          <End Role="CategoryTable" Type="Self.CategoryTable" Multiplicity="1" />
+          <End Role="ArticalPerCategoryTable" Type="Self.ArticalPerCategoryTable" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CategoryTable">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="ArticalPerCategoryTable">
+              <PropertyRef Name="CatId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="cat_pid_fk">
+          <End Role="CategoryTable" Type="Self.CategoryTable" Multiplicity="0..1" />
+          <End Role="CategoryTable1" Type="Self.CategoryTable" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CategoryTable">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="CategoryTable1">
+              <PropertyRef Name="ParentID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="wpc_cat_fk">
+          <End Role="CategoryTable" Type="Self.CategoryTable" Multiplicity="1" />
+          <End Role="WordPerCategoryTable" Type="Self.WordPerCategoryTable" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CategoryTable">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="WordPerCategoryTable">
+              <PropertyRef Name="CatId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="shortSortDBModelStoreContainer">
+          <EntitySet Name="ArticalPerCategoryTable" EntityType="Self.ArticalPerCategoryTable" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ArticalTable" EntityType="Self.ArticalTable" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="CategoryTable" EntityType="Self.CategoryTable" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="PermissionTable" EntityType="Self.PermissionTable" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="SimilarWordTable" EntityType="Self.SimilarWordTable" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="WordPerCategoryTable" EntityType="Self.WordPerCategoryTable" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="apc_art_fk" Association="Self.apc_art_fk">
+            <End Role="ArticalTable" EntitySet="ArticalTable" />
+            <End Role="ArticalPerCategoryTable" EntitySet="ArticalPerCategoryTable" />
+          </AssociationSet>
+          <AssociationSet Name="apc_cat_fk" Association="Self.apc_cat_fk">
+            <End Role="CategoryTable" EntitySet="CategoryTable" />
+            <End Role="ArticalPerCategoryTable" EntitySet="ArticalPerCategoryTable" />
+          </AssociationSet>
+          <AssociationSet Name="cat_pid_fk" Association="Self.cat_pid_fk">
+            <End Role="CategoryTable" EntitySet="CategoryTable" />
+            <End Role="CategoryTable1" EntitySet="CategoryTable" />
+          </AssociationSet>
+          <AssociationSet Name="wpc_cat_fk" Association="Self.wpc_cat_fk">
+            <End Role="CategoryTable" EntitySet="CategoryTable" />
+            <End Role="WordPerCategoryTable" EntitySet="WordPerCategoryTable" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="shortSortDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="ArticalPerCategoryTable">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="CatId" Type="Int32" Nullable="false" />
+          <Property Name="ArtId" Type="Int32" Nullable="false" />
+          <Property Name="Points" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="ArticalTable" Relationship="Self.apc_art_fk" FromRole="ArticalPerCategoryTable" ToRole="ArticalTable" />
+          <NavigationProperty Name="CategoryTable" Relationship="Self.apc_cat_fk" FromRole="ArticalPerCategoryTable" ToRole="CategoryTable" />
+        </EntityType>
+        <EntityType Name="ArticalTable">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Title" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+          <Property Name="Link" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="ArticalPerCategoryTables" Relationship="Self.apc_art_fk" FromRole="ArticalTable" ToRole="ArticalPerCategoryTable" />
+        </EntityType>
+        <EntityType Name="CategoryTable">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Kod" Type="String" MaxLength="15" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Desciption" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="ParentID" Type="Int32" />
+          <Property Name="AmountArticals" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="ArticalPerCategoryTables" Relationship="Self.apc_cat_fk" FromRole="CategoryTable" ToRole="ArticalPerCategoryTable" />
+          <NavigationProperty Name="CategoryTable1" Relationship="Self.cat_pid_fk" FromRole="CategoryTable" ToRole="CategoryTable1" />
+          <NavigationProperty Name="CategoryTable2" Relationship="Self.cat_pid_fk" FromRole="CategoryTable1" ToRole="CategoryTable" />
+          <NavigationProperty Name="WordPerCategoryTables" Relationship="Self.wpc_cat_fk" FromRole="CategoryTable" ToRole="WordPerCategoryTable" />
+        </EntityType>
+        <EntityType Name="PermissionTable">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="String" MaxLength="9" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Phon" Type="String" MaxLength="9" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Level" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityType Name="SimilarWordTable">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Word" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="similarWord" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Percent" Type="Double" Nullable="false" />
+        </EntityType>
+        <EntityType Name="WordPerCategoryTable">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Word" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CatId" Type="Int32" Nullable="false" />
+          <Property Name="Amount" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="CategoryTable" Relationship="Self.wpc_cat_fk" FromRole="WordPerCategoryTable" ToRole="CategoryTable" />
+        </EntityType>
+        <Association Name="apc_art_fk">
+          <End Role="ArticalTable" Type="Self.ArticalTable" Multiplicity="1" />
+          <End Role="ArticalPerCategoryTable" Type="Self.ArticalPerCategoryTable" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ArticalTable">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="ArticalPerCategoryTable">
+              <PropertyRef Name="ArtId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="apc_cat_fk">
+          <End Role="CategoryTable" Type="Self.CategoryTable" Multiplicity="1" />
+          <End Role="ArticalPerCategoryTable" Type="Self.ArticalPerCategoryTable" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CategoryTable">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="ArticalPerCategoryTable">
+              <PropertyRef Name="CatId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="cat_pid_fk">
+          <End Role="CategoryTable" Type="Self.CategoryTable" Multiplicity="0..1" />
+          <End Role="CategoryTable1" Type="Self.CategoryTable" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CategoryTable">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="CategoryTable1">
+              <PropertyRef Name="ParentID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="wpc_cat_fk">
+          <End Role="CategoryTable" Type="Self.CategoryTable" Multiplicity="1" />
+          <End Role="WordPerCategoryTable" Type="Self.WordPerCategoryTable" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CategoryTable">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="WordPerCategoryTable">
+              <PropertyRef Name="CatId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="shortSortDBEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="ArticalPerCategoryTables" EntityType="Self.ArticalPerCategoryTable" />
+          <EntitySet Name="ArticalTables" EntityType="Self.ArticalTable" />
+          <EntitySet Name="CategoryTables" EntityType="Self.CategoryTable" />
+          <EntitySet Name="PermissionTables" EntityType="Self.PermissionTable" />
+          <EntitySet Name="SimilarWordTables" EntityType="Self.SimilarWordTable" />
+          <EntitySet Name="WordPerCategoryTables" EntityType="Self.WordPerCategoryTable" />
+          <AssociationSet Name="apc_art_fk" Association="Self.apc_art_fk">
+            <End Role="ArticalTable" EntitySet="ArticalTables" />
+            <End Role="ArticalPerCategoryTable" EntitySet="ArticalPerCategoryTables" />
+          </AssociationSet>
+          <AssociationSet Name="apc_cat_fk" Association="Self.apc_cat_fk">
+            <End Role="CategoryTable" EntitySet="CategoryTables" />
+            <End Role="ArticalPerCategoryTable" EntitySet="ArticalPerCategoryTables" />
+          </AssociationSet>
+          <AssociationSet Name="cat_pid_fk" Association="Self.cat_pid_fk">
+            <End Role="CategoryTable" EntitySet="CategoryTables" />
+            <End Role="CategoryTable1" EntitySet="CategoryTables" />
+          </AssociationSet>
+          <AssociationSet Name="wpc_cat_fk" Association="Self.wpc_cat_fk">
+            <End Role="CategoryTable" EntitySet="CategoryTables" />
+            <End Role="WordPerCategoryTable" EntitySet="WordPerCategoryTables" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="shortSortDBModelStoreContainer" CdmEntityContainer="shortSortDBEntities">
+          <EntitySetMapping Name="ArticalPerCategoryTables">
+            <EntityTypeMapping TypeName="shortSortDBModel.ArticalPerCategoryTable">
+              <MappingFragment StoreEntitySet="ArticalPerCategoryTable">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="CatId" ColumnName="CatId" />
+                <ScalarProperty Name="ArtId" ColumnName="ArtId" />
+                <ScalarProperty Name="Points" ColumnName="Points" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ArticalTables">
+            <EntityTypeMapping TypeName="shortSortDBModel.ArticalTable">
+              <MappingFragment StoreEntitySet="ArticalTable">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Title" ColumnName="Title" />
+                <ScalarProperty Name="Link" ColumnName="Link" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="CategoryTables">
+            <EntityTypeMapping TypeName="shortSortDBModel.CategoryTable">
+              <MappingFragment StoreEntitySet="CategoryTable">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Kod" ColumnName="Kod" />
+                <ScalarProperty Name="Desciption" ColumnName="Desciption" />
+                <ScalarProperty Name="ParentID" ColumnName="ParentID" />
+                <ScalarProperty Name="AmountArticals" ColumnName="AmountArticals" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="PermissionTables">
+            <EntityTypeMapping TypeName="shortSortDBModel.PermissionTable">
+              <MappingFragment StoreEntitySet="PermissionTable">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Phon" ColumnName="Phon" />
+                <ScalarProperty Name="Level" ColumnName="Level" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="SimilarWordTables">
+            <EntityTypeMapping TypeName="shortSortDBModel.SimilarWordTable">
+              <MappingFragment StoreEntitySet="SimilarWordTable">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Word" ColumnName="Word" />
+                <ScalarProperty Name="similarWord" ColumnName="similarWord" />
+                <ScalarProperty Name="Percent" ColumnName="Percent" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="WordPerCategoryTables">
+            <EntityTypeMapping TypeName="shortSortDBModel.WordPerCategoryTable">
+              <MappingFragment StoreEntitySet="WordPerCategoryTable">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Word" ColumnName="Word" />
+                <ScalarProperty Name="CatId" ColumnName="CatId" />
+                <ScalarProperty Name="Amount" ColumnName="Amount" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

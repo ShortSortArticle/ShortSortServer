@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="shortSortDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="ArticalPerCategoryTable">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CatId" Type="Int32" Nullable="false" />
+    <Property Name="ArtId" Type="Int32" Nullable="false" />
+    <Property Name="Points" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="ArticalTable" Relationship="Self.apc_art_fk" FromRole="ArticalPerCategoryTable" ToRole="ArticalTable" />
+    <NavigationProperty Name="CategoryTable" Relationship="Self.apc_cat_fk" FromRole="ArticalPerCategoryTable" ToRole="CategoryTable" />
+  </EntityType>
+  <EntityType Name="ArticalTable">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="Link" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="ArticalPerCategoryTables" Relationship="Self.apc_art_fk" FromRole="ArticalTable" ToRole="ArticalPerCategoryTable" />
+  </EntityType>
+  <EntityType Name="CategoryTable">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Kod" Type="String" MaxLength="15" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Desciption" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ParentID" Type="Int32" />
+    <Property Name="AmountArticals" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="ArticalPerCategoryTables" Relationship="Self.apc_cat_fk" FromRole="CategoryTable" ToRole="ArticalPerCategoryTable" />
+    <NavigationProperty Name="CategoryTable1" Relationship="Self.cat_pid_fk" FromRole="CategoryTable" ToRole="CategoryTable1" />
+    <NavigationProperty Name="CategoryTable2" Relationship="Self.cat_pid_fk" FromRole="CategoryTable1" ToRole="CategoryTable" />
+    <NavigationProperty Name="WordPerCategoryTables" Relationship="Self.wpc_cat_fk" FromRole="CategoryTable" ToRole="WordPerCategoryTable" />
+  </EntityType>
+  <EntityType Name="PermissionTable">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="String" MaxLength="9" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Phon" Type="String" MaxLength="9" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Level" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SimilarWordTable">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Word" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="similarWord" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Percent" Type="Double" Nullable="false" />
+  </EntityType>
+  <EntityType Name="WordPerCategoryTable">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Word" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CatId" Type="Int32" Nullable="false" />
+    <Property Name="Amount" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="CategoryTable" Relationship="Self.wpc_cat_fk" FromRole="WordPerCategoryTable" ToRole="CategoryTable" />
+  </EntityType>
+  <Association Name="apc_art_fk">
+    <End Role="ArticalTable" Type="Self.ArticalTable" Multiplicity="1" />
+    <End Role="ArticalPerCategoryTable" Type="Self.ArticalPerCategoryTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ArticalTable">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ArticalPerCategoryTable">
+        <PropertyRef Name="ArtId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="apc_cat_fk">
+    <End Role="CategoryTable" Type="Self.CategoryTable" Multiplicity="1" />
+    <End Role="ArticalPerCategoryTable" Type="Self.ArticalPerCategoryTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CategoryTable">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ArticalPerCategoryTable">
+        <PropertyRef Name="CatId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="cat_pid_fk">
+    <End Role="CategoryTable" Type="Self.CategoryTable" Multiplicity="0..1" />
+    <End Role="CategoryTable1" Type="Self.CategoryTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CategoryTable">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CategoryTable1">
+        <PropertyRef Name="ParentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="wpc_cat_fk">
+    <End Role="CategoryTable" Type="Self.CategoryTable" Multiplicity="1" />
+    <End Role="WordPerCategoryTable" Type="Self.WordPerCategoryTable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CategoryTable">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="WordPerCategoryTable">
+        <PropertyRef Name="CatId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="shortSortDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ArticalPerCategoryTables" EntityType="Self.ArticalPerCategoryTable" />
+    <EntitySet Name="ArticalTables" EntityType="Self.ArticalTable" />
+    <EntitySet Name="CategoryTables" EntityType="Self.CategoryTable" />
+    <EntitySet Name="PermissionTables" EntityType="Self.PermissionTable" />
+    <EntitySet Name="SimilarWordTables" EntityType="Self.SimilarWordTable" />
+    <EntitySet Name="WordPerCategoryTables" EntityType="Self.WordPerCategoryTable" />
+    <AssociationSet Name="apc_art_fk" Association="Self.apc_art_fk">
+      <End Role="ArticalTable" EntitySet="ArticalTables" />
+      <End Role="ArticalPerCategoryTable" EntitySet="ArticalPerCategoryTables" />
+    </AssociationSet>
+    <AssociationSet Name="apc_cat_fk" Association="Self.apc_cat_fk">
+      <End Role="CategoryTable" EntitySet="CategoryTables" />
+      <End Role="ArticalPerCategoryTable" EntitySet="ArticalPerCategoryTables" />
+    </AssociationSet>
+    <AssociationSet Name="cat_pid_fk" Association="Self.cat_pid_fk">
+      <End Role="CategoryTable" EntitySet="CategoryTables" />
+      <End Role="CategoryTable1" EntitySet="CategoryTables" />
+    </AssociationSet>
+    <AssociationSet Name="wpc_cat_fk" Association="Self.wpc_cat_fk">
+      <End Role="CategoryTable" EntitySet="CategoryTables" />
+      <End Role="WordPerCategoryTable" EntitySet="WordPerCategoryTables" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

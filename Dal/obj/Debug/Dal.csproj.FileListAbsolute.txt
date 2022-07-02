@@ -1,0 +1,60 @@
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dal\bin\Debug\Dal.dll.config
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dal\bin\Debug\Dal.dll
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dal\bin\Debug\Dal.pdb
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dal\bin\Debug\EntityFramework.dll
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dal\bin\Debug\EntityFramework.xml
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dal\obj\Debug\Dal.dll
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dal\obj\Debug\Dal.pdb
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dal\bin\Debug\Dal.dll.config
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dal\bin\Debug\Dal.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dal\bin\Debug\Dal.pdb
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dal\bin\Debug\EntityFramework.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dal\bin\Debug\EntityFramework.xml
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dal\obj\Debug\Dal.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dal\obj\Debug\Dal.pdb
+C:\Users\613sm\Documents\תיכנות\full project\Dal\bin\Debug\Dal.dll.config
+C:\Users\613sm\Documents\תיכנות\full project\Dal\bin\Debug\Dal.dll
+C:\Users\613sm\Documents\תיכנות\full project\Dal\bin\Debug\Dal.pdb
+C:\Users\613sm\Documents\תיכנות\full project\Dal\bin\Debug\EntityFramework.dll
+C:\Users\613sm\Documents\תיכנות\full project\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\613sm\Documents\תיכנות\full project\Dal\bin\Debug\EntityFramework.xml
+C:\Users\613sm\Documents\תיכנות\full project\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\613sm\Documents\תיכנות\full project\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+C:\Users\613sm\Documents\תיכנות\full project\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\613sm\Documents\תיכנות\full project\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\613sm\Documents\תיכנות\full project\Dal\obj\Debug\Dal.dll
+C:\Users\613sm\Documents\תיכנות\full project\Dal\obj\Debug\Dal.pdb
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dal\bin\Debug\Dal.dll.config
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dal\bin\Debug\Dal.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dal\bin\Debug\Dal.pdb
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dal\bin\Debug\EntityFramework.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dal\bin\Debug\EntityFramework.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dal\obj\Debug\Dal.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dal\obj\Debug\Dal.pdb
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dal\bin\Debug\Dal.dll.config
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dal\bin\Debug\Dal.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dal\bin\Debug\Dal.pdb
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dal\bin\Debug\EntityFramework.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dal\bin\Debug\EntityFramework.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dal\obj\Debug\Dal.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dal\obj\Debug\Dal.pdb
