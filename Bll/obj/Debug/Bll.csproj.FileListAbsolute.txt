@@ -1,0 +1,883 @@
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Bll.dll.config
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Bll.dll
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Bll.pdb
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Dal.dll
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Dto.dll
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\EntityFramework.dll
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\AutoMapper.dll
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Dal.pdb
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Dal.dll.config
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Dto.pdb
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\EntityFramework.xml
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\AutoMapper.xml
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Bll\obj\Debug\Bll.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Bll\obj\Debug\Bll.dll
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Bll\obj\Debug\Bll.pdb
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\obj\Debug\Bll.csproj.AssemblyReference.cache
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\obj\Debug\Bll.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\obj\Debug\Bll.pdb
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Bll.dll.config
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Bll.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Bll.pdb
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Dal.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Dto.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\EntityFramework.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\AutoMapper.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Dal.pdb
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Dal.dll.config
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Dto.pdb
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\EntityFramework.xml
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\AutoMapper.xml
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Microsoft.Scripting.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Microsoft.Scripting.xml
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\itextsharp.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\itextsharp.xml
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\OcrData\Hebrew.ocrdata
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\IronOcr.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\System.Drawing.Common.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\IronOcr.xml
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\OcrData\Hebrew.ocrdata
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\Bll.dll.config
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\Bll.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\Bll.pdb
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\Dal.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\Dto.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\EntityFramework.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\IronOcr.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\IronPython.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\IronPython.Modules.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\IronPython.SQLite.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\IronPython.Wpf.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\itextsharp.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\Microsoft.Scripting.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\PdfSharp.Charting.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\PdfSharp.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\Snowball.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\System.Drawing.Common.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\AutoMapper.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\Dal.pdb
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\Dal.dll.config
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\Dto.pdb
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\EntityFramework.xml
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\IronOcr.xml
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\IronPython.xml
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\IronPython.Modules.xml
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\IronPython.SQLite.xml
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\IronPython.Wpf.xml
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\itextsharp.xml
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\Microsoft.Scripting.xml
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\PdfSharp.xml
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\PdfSharp.Charting.xml
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\AutoMapper.xml
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\obj\Debug\Bll.csproj.AssemblyReference.cache
+C:\Users\613sm\Documents\תיכנות\full project\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\613sm\Documents\תיכנות\full project\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\613sm\Documents\תיכנות\full project\Bll\obj\Debug\Bll.dll
+C:\Users\613sm\Documents\תיכנות\full project\Bll\obj\Debug\Bll.pdb
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\OcrData\Hebrew.ocrdata
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\Bll.dll.config
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\Bll.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\Bll.pdb
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\Dal.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\Dto.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\EntityFramework.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\IronOcr.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\IronPython.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\IronPython.Modules.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\IronPython.SQLite.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\IronPython.Wpf.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\itextsharp.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\Microsoft.Scripting.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\PdfSharp.Charting.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\PdfSharp.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\Snowball.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\System.Drawing.Common.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\AutoMapper.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\Dal.pdb
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\Dal.dll.config
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\Dto.pdb
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\EntityFramework.xml
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\IronOcr.xml
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\IronPython.xml
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\IronPython.Modules.xml
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\IronPython.SQLite.xml
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\IronPython.Wpf.xml
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\itextsharp.xml
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\Microsoft.Scripting.xml
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\PdfSharp.xml
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\PdfSharp.Charting.xml
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\AutoMapper.xml
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\obj\Debug\Bll.csproj.AssemblyReference.cache
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\obj\Debug\Bll.dll
+C:\Users\613sm\Documents\תיכנות\ניסויים ולא בטבע\full project\Bll\obj\Debug\Bll.pdb
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Newtonsoft.Json.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Twilio.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Newtonsoft.Json.xml
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\Twilio.xml
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\chrome_100_percent.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\chrome_200_percent.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\chrome_elf.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\d3dcompiler_47.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\icudtl.dat
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\IronCefSubprocess.exe
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\IronInterop.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\IronPdf.Native.Chrome.deployment.json
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\libcef.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\libEGL.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\libGLESv2.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\af.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\am.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ar.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\bg.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\bn.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ca.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\cs.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\da.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\de.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\el.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\en-GB.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\en-US.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\es-419.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\es.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\et.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\fa.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\fi.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\fil.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\fr.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\gu.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\he.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\hi.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\hr.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\hu.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\id.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\it.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ja.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\kn.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ko.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\lt.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\lv.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ml.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\mr.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ms.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\nb.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\nl.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\pl.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\pt-BR.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\pt-PT.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ro.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ru.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\sk.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\sl.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\sr.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\sv.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\sw.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ta.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\te.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\th.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\tr.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\uk.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ur.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\vi.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\zh-CN.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\zh-TW.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\msvcp140.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\resources.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\snapshot_blob.bin
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\ucrtbase.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\v8_context_snapshot.bin
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\vk_swiftshader.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x64\native\vulkan-1.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\chrome_100_percent.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\chrome_200_percent.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\chrome_elf.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\d3dcompiler_47.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\icudtl.dat
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\IronCefSubprocess.exe
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\IronInterop.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\IronPdf.Native.Chrome.deployment.json
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\libcef.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\libEGL.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\libGLESv2.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\af.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\am.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ar.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\bg.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\bn.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ca.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\cs.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\da.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\de.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\el.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\en-GB.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\en-US.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\es-419.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\es.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\et.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\fa.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\fi.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\fil.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\fr.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\gu.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\he.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\hi.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\hr.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\hu.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\id.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\it.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ja.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\kn.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ko.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\lt.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\lv.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ml.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\mr.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ms.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\nb.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\nl.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\pl.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\pt-BR.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\pt-PT.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ro.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ru.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\sk.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\sl.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\sr.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\sv.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\sw.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ta.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\te.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\th.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\tr.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\uk.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ur.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\vi.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\zh-CN.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\zh-TW.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\msvcp140.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\resources.pak
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\snapshot_blob.bin
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\ucrtbase.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\v8_context_snapshot.bin
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\vk_swiftshader.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\runtimes\win-x86\native\vulkan-1.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\IronPdf.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Bll\bin\Debug\IronPdf.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\OcrData\Hebrew.ocrdata
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\chrome_100_percent.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\chrome_200_percent.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\chrome_elf.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\d3dcompiler_47.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\icudtl.dat
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\IronCefSubprocess.exe
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\IronInterop.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\IronPdf.Native.Chrome.deployment.json
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\libcef.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\libEGL.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\libGLESv2.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\af.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\am.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ar.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\bg.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\bn.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ca.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\cs.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\da.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\de.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\el.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\en-GB.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\en-US.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\es-419.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\es.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\et.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\fa.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\fi.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\fil.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\fr.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\gu.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\he.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\hi.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\hr.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\hu.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\id.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\it.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ja.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\kn.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ko.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\lt.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\lv.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ml.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\mr.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ms.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\nb.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\nl.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\pl.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\pt-BR.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\pt-PT.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ro.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ru.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\sk.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\sl.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\sr.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\sv.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\sw.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ta.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\te.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\th.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\tr.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\uk.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ur.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\vi.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\zh-CN.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\zh-TW.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\msvcp140.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\resources.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\snapshot_blob.bin
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\ucrtbase.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\v8_context_snapshot.bin
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\vk_swiftshader.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x64\native\vulkan-1.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\chrome_100_percent.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\chrome_200_percent.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\chrome_elf.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\d3dcompiler_47.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\icudtl.dat
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\IronCefSubprocess.exe
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\IronInterop.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\IronPdf.Native.Chrome.deployment.json
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\libcef.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\libEGL.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\libGLESv2.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\af.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\am.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ar.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\bg.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\bn.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ca.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\cs.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\da.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\de.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\el.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\en-GB.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\en-US.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\es-419.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\es.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\et.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\fa.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\fi.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\fil.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\fr.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\gu.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\he.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\hi.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\hr.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\hu.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\id.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\it.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ja.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\kn.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ko.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\lt.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\lv.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ml.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\mr.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ms.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\nb.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\nl.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\pl.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\pt-BR.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\pt-PT.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ro.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ru.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\sk.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\sl.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\sr.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\sv.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\sw.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ta.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\te.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\th.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\tr.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\uk.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ur.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\vi.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\zh-CN.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\zh-TW.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\msvcp140.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\resources.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\snapshot_blob.bin
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\ucrtbase.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\v8_context_snapshot.bin
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\vk_swiftshader.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\runtimes\win-x86\native\vulkan-1.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\Bll.dll.config
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\Bll.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\Bll.pdb
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\Dal.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\Dto.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\EntityFramework.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\IronOcr.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\IronPdf.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\itextsharp.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\Microsoft.Scripting.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\Newtonsoft.Json.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\System.Drawing.Common.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\Twilio.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\AutoMapper.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\Dal.pdb
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\Dal.dll.config
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\Dto.pdb
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\EntityFramework.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\IronOcr.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\IronPdf.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\itextsharp.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\Microsoft.Scripting.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\Newtonsoft.Json.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\Twilio.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\bin\Debug\AutoMapper.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\obj\Debug\Bll.csproj.AssemblyReference.cache
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\obj\Debug\Bll.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Bll\obj\Debug\Bll.pdb
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\OcrData\Hebrew.ocrdata
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\chrome_100_percent.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\chrome_200_percent.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\chrome_elf.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\d3dcompiler_47.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\icudtl.dat
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\IronCefSubprocess.exe
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\IronInterop.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\IronPdf.Native.Chrome.deployment.json
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\libcef.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\libEGL.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\libGLESv2.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\af.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\am.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ar.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\bg.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\bn.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ca.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\cs.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\da.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\de.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\el.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\en-GB.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\en-US.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\es-419.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\es.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\et.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\fa.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\fi.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\fil.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\fr.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\gu.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\he.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\hi.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\hr.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\hu.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\id.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\it.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ja.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\kn.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ko.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\lt.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\lv.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ml.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\mr.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ms.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\nb.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\nl.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\pl.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\pt-BR.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\pt-PT.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ro.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ru.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\sk.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\sl.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\sr.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\sv.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\sw.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ta.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\te.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\th.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\tr.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\uk.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ur.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\vi.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\zh-CN.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\zh-TW.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\msvcp140.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\resources.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\snapshot_blob.bin
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\ucrtbase.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\v8_context_snapshot.bin
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\vk_swiftshader.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x64\native\vulkan-1.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\chrome_100_percent.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\chrome_200_percent.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\chrome_elf.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\d3dcompiler_47.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\icudtl.dat
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\IronCefSubprocess.exe
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\IronInterop.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\IronPdf.Native.Chrome.deployment.json
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\libcef.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\libEGL.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\libGLESv2.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\af.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\am.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ar.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\bg.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\bn.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ca.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\cs.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\da.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\de.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\el.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\en-GB.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\en-US.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\es-419.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\es.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\et.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\fa.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\fi.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\fil.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\fr.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\gu.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\he.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\hi.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\hr.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\hu.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\id.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\it.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ja.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\kn.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ko.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\lt.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\lv.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ml.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\mr.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ms.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\nb.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\nl.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\pl.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\pt-BR.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\pt-PT.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ro.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ru.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\sk.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\sl.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\sr.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\sv.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\sw.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ta.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\te.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\th.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\tr.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\uk.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ur.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\vi.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\zh-CN.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\zh-TW.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\msvcp140.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\resources.pak
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\snapshot_blob.bin
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\ucrtbase.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\v8_context_snapshot.bin
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\vk_swiftshader.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\runtimes\win-x86\native\vulkan-1.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\Bll.dll.config
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\Bll.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\Bll.pdb
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\Dal.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\Dto.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\EntityFramework.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\IronOcr.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\IronPdf.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\itextsharp.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\Microsoft.Scripting.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\Newtonsoft.Json.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\System.Drawing.Common.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\Twilio.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\Dal.pdb
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\Dal.dll.config
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\Dto.pdb
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\EntityFramework.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\IronOcr.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\IronPdf.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\itextsharp.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\Microsoft.Scripting.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\Newtonsoft.Json.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\bin\Debug\Twilio.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\obj\Debug\Bll.csproj.AssemblyReference.cache
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\obj\Debug\Bll.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Bll\obj\Debug\Bll.pdb
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\OcrData\Hebrew.ocrdata
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\chrome_100_percent.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\chrome_200_percent.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\chrome_elf.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\d3dcompiler_47.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\icudtl.dat
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\IronCefSubprocess.exe
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\IronInterop.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\IronPdf.Native.Chrome.deployment.json
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\libcef.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\libEGL.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\libGLESv2.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\af.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\am.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ar.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\bg.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\bn.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ca.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\cs.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\da.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\de.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\el.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\en-GB.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\en-US.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\es-419.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\es.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\et.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\fa.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\fi.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\fil.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\fr.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\gu.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\he.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\hi.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\hr.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\hu.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\id.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\it.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ja.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\kn.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ko.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\lt.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\lv.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ml.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\mr.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ms.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\nb.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\nl.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\pl.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\pt-BR.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\pt-PT.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ro.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ru.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\sk.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\sl.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\sr.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\sv.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\sw.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ta.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\te.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\th.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\tr.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\uk.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\ur.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\vi.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\zh-CN.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\locales\zh-TW.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\msvcp140.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\resources.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\snapshot_blob.bin
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\ucrtbase.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\v8_context_snapshot.bin
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\vk_swiftshader.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x64\native\vulkan-1.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\chrome_100_percent.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\chrome_200_percent.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\chrome_elf.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\d3dcompiler_47.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\icudtl.dat
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\IronCefSubprocess.exe
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\IronInterop.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\IronPdf.Native.Chrome.deployment.json
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\libcef.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\libEGL.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\libGLESv2.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\af.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\am.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ar.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\bg.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\bn.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ca.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\cs.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\da.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\de.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\el.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\en-GB.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\en-US.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\es-419.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\es.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\et.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\fa.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\fi.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\fil.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\fr.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\gu.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\he.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\hi.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\hr.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\hu.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\id.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\it.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ja.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\kn.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ko.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\lt.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\lv.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ml.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\mr.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ms.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\nb.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\nl.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\pl.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\pt-BR.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\pt-PT.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ro.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ru.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\sk.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\sl.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\sr.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\sv.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\sw.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ta.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\te.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\th.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\tr.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\uk.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\ur.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\vi.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\zh-CN.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\locales\zh-TW.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\msvcp140.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\resources.pak
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\snapshot_blob.bin
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\ucrtbase.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\v8_context_snapshot.bin
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\vk_swiftshader.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\runtimes\win-x86\native\vulkan-1.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\Bll.dll.config
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\Bll.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\Bll.pdb
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\Dal.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\Dto.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\EntityFramework.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\IronOcr.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\IronPdf.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\itextsharp.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\Microsoft.Scripting.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\Newtonsoft.Json.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\System.Drawing.Common.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\Twilio.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\Dal.pdb
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\Dal.dll.config
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\Dto.pdb
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\EntityFramework.xml
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\IronOcr.xml
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\IronPdf.xml
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\itextsharp.xml
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\Microsoft.Scripting.xml
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\Newtonsoft.Json.xml
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\bin\Debug\Twilio.xml
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\obj\Debug\Bll.csproj.AssemblyReference.cache
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\obj\Debug\Bll.dll
+C:\Users\שניידר\Documents\תכנות\projectGit\ShortSortServer\full project\Bll\obj\Debug\Bll.pdb
