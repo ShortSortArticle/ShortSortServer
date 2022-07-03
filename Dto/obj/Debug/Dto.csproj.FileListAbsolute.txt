@@ -1,0 +1,74 @@
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dto\bin\Debug\Dto.dll
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dto\bin\Debug\Dto.pdb
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dto\bin\Debug\AutoMapper.dll
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dto\bin\Debug\Dal.dll
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dto\bin\Debug\EntityFramework.dll
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dto\bin\Debug\Dal.pdb
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dto\bin\Debug\Dal.dll.config
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dto\bin\Debug\AutoMapper.xml
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dto\bin\Debug\EntityFramework.xml
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dto\obj\Debug\Dto.csproj.CopyComplete
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dto\obj\Debug\Dto.dll
+C:\Users\user1\Documents\תיכנות\פרויקט מרכזי\full project\Dto\obj\Debug\Dto.pdb
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dto\bin\Debug\Dto.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dto\bin\Debug\Dto.pdb
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dto\bin\Debug\AutoMapper.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dto\bin\Debug\Dal.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dto\bin\Debug\EntityFramework.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dto\bin\Debug\Dal.pdb
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dto\bin\Debug\Dal.dll.config
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dto\bin\Debug\AutoMapper.xml
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dto\bin\Debug\EntityFramework.xml
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dto\obj\Debug\Dto.csproj.CopyComplete
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dto\obj\Debug\Dto.dll
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dto\obj\Debug\Dto.pdb
+C:\Users\613sm\Documents\תיכנות\פרויקט מרכזי\full project\Dto\bin\Debug\AutoMapper.Collection.dll
+C:\Users\613sm\Documents\תיכנות\full project\Dto\bin\Debug\Dto.dll
+C:\Users\613sm\Documents\תיכנות\full project\Dto\bin\Debug\Dto.pdb
+C:\Users\613sm\Documents\תיכנות\full project\Dto\bin\Debug\AutoMapper.Collection.dll
+C:\Users\613sm\Documents\תיכנות\full project\Dto\bin\Debug\AutoMapper.dll
+C:\Users\613sm\Documents\תיכנות\full project\Dto\bin\Debug\Dal.dll
+C:\Users\613sm\Documents\תיכנות\full project\Dto\bin\Debug\EntityFramework.dll
+C:\Users\613sm\Documents\תיכנות\full project\Dto\bin\Debug\Dal.pdb
+C:\Users\613sm\Documents\תיכנות\full project\Dto\bin\Debug\Dal.dll.config
+C:\Users\613sm\Documents\תיכנות\full project\Dto\bin\Debug\AutoMapper.xml
+C:\Users\613sm\Documents\תיכנות\full project\Dto\bin\Debug\EntityFramework.xml
+C:\Users\613sm\Documents\תיכנות\full project\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\613sm\Documents\תיכנות\full project\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\613sm\Documents\תיכנות\full project\Dto\obj\Debug\Dto.csproj.CopyComplete
+C:\Users\613sm\Documents\תיכנות\full project\Dto\obj\Debug\Dto.dll
+C:\Users\613sm\Documents\תיכנות\full project\Dto\obj\Debug\Dto.pdb
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dto\bin\Debug\Dto.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dto\bin\Debug\Dto.pdb
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dto\bin\Debug\AutoMapper.Collection.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dto\bin\Debug\AutoMapper.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dto\bin\Debug\Dal.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dto\bin\Debug\EntityFramework.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dto\bin\Debug\Dal.pdb
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dto\bin\Debug\Dal.dll.config
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dto\bin\Debug\AutoMapper.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dto\bin\Debug\EntityFramework.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dto\obj\Debug\Dto.csproj.CopyComplete
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dto\obj\Debug\Dto.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\full project\Dto\obj\Debug\Dto.pdb
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dto\bin\Debug\Dto.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dto\bin\Debug\Dto.pdb
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dto\bin\Debug\AutoMapper.Collection.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dto\bin\Debug\AutoMapper.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dto\bin\Debug\Dal.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dto\bin\Debug\EntityFramework.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dto\bin\Debug\Dal.pdb
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dto\bin\Debug\Dal.dll.config
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dto\bin\Debug\AutoMapper.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dto\bin\Debug\EntityFramework.xml
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dto\obj\Debug\Dto.csproj.CopyComplete
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dto\obj\Debug\Dto.dll
+C:\Users\שניידר\Documents\תכנות\תשפב\פרויקט מיון מאמרים\my_project\full project\Dto\obj\Debug\Dto.pdb
